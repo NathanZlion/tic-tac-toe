@@ -15,6 +15,7 @@ git clone https://github.com/NathanZlion/tic-tac-toe.git
 
 ## Features
 
+- 2 Player Mode: Your can play the game in pairs.
 - Responsive design: The game adapts to different screen sizes, making it perfect for mobile and desktop devices.
 - Customizable game settings: You can choose between different game modes and board sizes, making the game suitable for players of all skill levels.
 - Multiple themes: You can choose between different color themes to make the game look and feel the way you want.
