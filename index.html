@@ -25,29 +25,27 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <div class="me-auto"></div>
                 <div class="navbar-nav me-auto">
-                    <a class="navbar-brand fs-2" href="#">TicTacToe</a>
+                    <a class="navbar-brand fs-1" href="#">TicTacToe</a>
                 </div>
                 <form class="d-flex">
                     <ul>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle fs-5" href="#" id="navbarDropdown" role="button"
-                                data-bs-toggle="dropdown" aria-expanded="false">
-                                OTHER
-                            </a>
+                                data-bs-toggle="dropdown" aria-expanded="false">OTHER</a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <div class="theme dropdown-item">
-                                    <p class="fs-4">Background color : </p><input type="color">
-                                </div>
+
+
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="https://github.com/NathanZlion/tic-tac-toe" target="_blank"><i class="fa-solid fa-code">Source code</i></a>
+                                </li>
+                                <li><a class="dropdown-item" href="https://www.wikihow.com/Play-Tic-Tac-Toe"
+                                        target="_blank"><i class="fa-solid fa-circle-info">About tic-tac-toe</i></a>
+                                </li>
+                                <li>
+                            </ul>
                         </li>
-                        <li>
-                            <hr class="dropdown-divider">
-                        </li>
-                        <li><a class="dropdown-item" href="#"><i class="fa-solid fa-code">Source code</i></a></li>
-                        <li><a class="dropdown-item" href="https://www.wikihow.com/Play-Tic-Tac-Toe" target="_blank"><i
-                                    class="fa-solid fa-circle-info">About tic-tac-toe</i></a></li>
-                        <li>
-                    </ul>
-                    </li>
                     </ul>
                 </form>
             </div>
@@ -57,7 +55,7 @@
 
     <div class="container">
         <div class="d-flex flex-row justify-content-evenly align-items-center m-4">
-            <div class="">Turn : <span id="currentTurn">X</span></div>
+            <div class="fs-2">Turn : <span id="currentTurn" class="fs-1">X</span></div>
         </div>
 
 
@@ -79,10 +77,9 @@
             <div class="">X : <span id="X-score-display">0</span></div>
             <div class="">O : <span id="O-score-display">0</span></div>
             <div id="reset-button" class="btn"><i class="fa-solid fa-arrow-rotate-right"> Reset</i></div>
-
         </div>
-
     </div>
+
     <!-- winning message -->
 
     <div id="message" class="winning-message">
@@ -98,10 +95,10 @@
         </div>
 
         <div class="d-flex justify-content-evenly gap-5 me-auto">
-            <a href="#">
+            <a href="https://github.com/NathanZlion" target="_blank">
                 <i class="fa-brands fa-github fs-1"></i>
             </a>
-            <a href="#">
+            <a href="https://www.linkedin.com/in/nathnael-dereje-a46117254" target="_blank">
                 <i class="fa-brands fa-linkedin-in fs-1"></i>
             </a>
         </div>
