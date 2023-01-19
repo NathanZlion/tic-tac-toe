@@ -27,6 +27,6 @@ git clone https://github.com/NathanZlion/tic-tac-toe.git
 
 ## Authors
 
-- **Nathnael Dereje** - [nathanzlion] https://github.com/NathanZlion/tic-tac-toe.git
+- **Nathnael Dereje** - [https://github.com/NathanZlion] https://github.com/NathanZlion/tic-tac-toe.git
 
 Have fun playing Tic-Tac-Toe!
