@@ -21,18 +21,12 @@ git clone https://github.com/NathanZlion/tic-tac-toe.git
 - Multiple themes: You can choose between different color themes to make the game look and feel the way you want.
 
 ## Built With
-
 - HTML
 - CSS
 - JavaScript
 
 ## Authors
 
-- **Nathnael Dereje** - *Initial work* - [nathanzlion] https://github.com/NathanZlion/tic-tac-toe.git
-
-## Acknowledgments
-
-- Inspiration and assets used in the game design
-- etc
+- **Nathnael Dereje** - [https://github.com/NathanZlion] https://github.com/NathanZlion/tic-tac-toe.git
 
 Have fun playing Tic-Tac-Toe!
